@@ -50,7 +50,7 @@ calculator/
 
 ## 📸 Screenshot
 
-![Calculator Preview](https://drive.google.com/file/d/1Y-673i3SDRqJsTCv_ZYhnRBdySNyqoyV/view?usp=drive_link)
+![Calculator Preview](./screenshot.png)
 
 ---
 
